@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aditya12109970
+- 👋 Hi, I’m Aditya Dhanraj
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning C++ and pentesting
 - 💞️ I’m looking to collaborate on pentesting
